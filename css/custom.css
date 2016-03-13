@@ -6912,7 +6912,7 @@ button.close {
 .jumbotron_c h1, .jumbotron_c .h1 {
     color: #D61515;
     /* padding-right: 60px; */
-    padding-left: 3px;
+    padding-left: 13px;
 }
 
 .jumbotron_c h2 {
@@ -6922,13 +6922,13 @@ button.close {
     font-weight: 200;
     color: #fff;
     background-color: #D61515;
-    padding: 3px 60px 3px 3px;
+    padding: 3px 60px 3px 13px;
   }
 
 .jumbotron_c p {
     margin-bottom: 15px;
     font-size: 21px;
     font-weight: 200;
-    padding: 3px 3px 3px 3px;
+    padding: 3px 3px 3px 13px;
   }
 } 
